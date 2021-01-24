@@ -8,13 +8,13 @@ Put all the face images you want your model to recognize in the `images` folder 
 
 ### Install the dependencies
 
-Run `pip install -r requiremnts.txt`
+`pip install -r requirements.txt`
 
 ### Train your model and save train data
-Run `python faces-train.py`
+`python faces-train.py`
 
 ### Test your model against live webcam
-Run `python faces.py`
+`python faces.py`
 
 ### Output
 
